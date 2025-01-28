@@ -4,6 +4,7 @@ Hey there, I'm Ayesha 👋
 
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayesha-khalil-435b87265/).
+:point_right: **Checkout my work [GitHub](https://github.com/Ayesha-khalil-432).**
 
 
 # 📊 GitHub Stats:
@@ -14,3 +15,5 @@ Hey there, I'm Ayesha 👋
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayeshakhalil0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
